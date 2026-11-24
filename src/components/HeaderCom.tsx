@@ -46,7 +46,6 @@ export default function HeaderCom() {
 
         {/* Pricing / Obligation Note */}
         <p className="mt-2.5 text-xs text-[#64748B] sm:text-sm">
-          Projects start from £200 · no obligation
         </p>
       </div>
     </section>
